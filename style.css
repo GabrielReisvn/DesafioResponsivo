@@ -614,7 +614,12 @@
                 font-size: 18px;
             }
             .challenge-badge{
-                display: none;
+                padding: 12px 22px;
+                font-weight: 670;
+                font-size: 14px;
+                bottom: 15px;
+                right: 5px;
+                border-radius: 30px;
             }
         }
 
